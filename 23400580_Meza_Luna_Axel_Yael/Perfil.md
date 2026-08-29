@@ -1,5 +1,5 @@
 <h1>Foto de perfil</h1>
-<img width="120" height="160" alt="FotoPerfil" src="" />
+<img width="120" height="160" alt="FotoPerfil" src="../Profile.jpg" />
 
 
 <h1>Información General</h1>
